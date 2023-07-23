@@ -1,0 +1,20 @@
+		HOÁ ĐƠN
+THÔNG TIN KHÁCH HÀNG: 
+Họ và tên: Lâm
+Giới tính: 123
+Năm sinh: 123
+Email: 123
+Số điện thoại: 123
+Địa chỉ: 123
+ID khách hàng: 4
+
+THÔNG TIN CHUYẾN BAY
+Chuyến bay từ Sài Gòn đến Hà Nội
+Khởi hành vào ngày: 03/04/2023
+Bắt đầu vào lúc: 08:30
+Thời gian trung chuyển: 02 tiếng 15 phút
+Máy bay: AIRBUS A330
+Khoang: Hạng thương gia
+Giá vé: 5000000 VNĐ
+Chỗ ngồi: L-02
+

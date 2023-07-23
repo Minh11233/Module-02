@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lesson-08.iml" filepath="$PROJECT_DIR$/.idea/Lesson-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apj-cylinder/apj-cylinder.iml" filepath="$PROJECT_DIR$/apj-cylinder/apj-cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-cleancode-refactoring-renaming/java-cleancode-refactoring-renaming.iml" filepath="$PROJECT_DIR$/java-cleancode-refactoring-renaming/java-cleancode-refactoring-renaming.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/apj-cylinder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apj-fizzbuzz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apj-tennis-game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-cleancode-refactoring-renaming" vcs="Git" />
+  </component>
+</project>

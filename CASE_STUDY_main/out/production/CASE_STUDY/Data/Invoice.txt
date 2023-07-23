@@ -1,0 +1,20 @@
+		HOÁ ĐƠN
+THÔNG TIN KHÁCH HÀNG: 
+Họ và tên: Nguyễn Quang Minh
+Giới tính: Nam
+Năm sinh: 10/03/1997
+Email: minhdeptrai@gmail.com
+Số điện thoại: 0911223236
+Địa chỉ: 21k Nguyễn Văn Trỗi
+ID khách hàng: 2
+
+THÔNG TIN CHUYẾN BAY
+Chuyến bay từ Sài Gòn đến Hà Nội
+Khởi hành vào ngày: 02/04/2023
+Bắt đầu vào lúc: 07:15
+Thời gian trung chuyển: 02 tiếng 15 phút
+Máy bay: AIRBUS A330
+Khoang: Hạng thương gia
+Giá vé: 5000000 VNĐ
+Chỗ ngồi: L-02
+

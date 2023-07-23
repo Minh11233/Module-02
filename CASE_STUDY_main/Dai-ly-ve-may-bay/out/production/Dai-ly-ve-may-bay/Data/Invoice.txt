@@ -1,0 +1,19 @@
+		HOÁ ĐƠN
+THÔNG TIN KHÁCH HÀNG: 
+Họ và tên: Nguyễn Văn Khánh
+Giới tính: Nữ
+Năm sinh: 09/01/2004
+Email: khanhcobac@gmail.com
+Số điện thoại: 0911223666
+Địa chỉ: 21k Nguyễn Văn Trỗi
+
+THÔNG TIN CHUYẾN BAY
+Chuyến bay từ Sài Gòn đến Hà Nội
+Khởi hành vào ngày: 31 March 2023
+Bắt đầu vào lúc: 07:15
+Thời gian trung chuyển: 02 tiếng 15 phút
+Máy bay: AIRBUS A330
+Khoang: Hạng phổ thông
+Giá vé: 1,000,000 VNĐ - Bằng chữ: Một triệu Việt Nam đồng
+Chỗ ngồi: E-01
+
